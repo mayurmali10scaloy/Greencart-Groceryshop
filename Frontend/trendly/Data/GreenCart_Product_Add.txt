@@ -1,0 +1,75 @@
+[
+  {"productName":"Amul Milk","description":"Fresh toned milk","category":"Dairy","brand":"Amul","quantity":"1L","price":60,"discountPercent":5,"stock":100,"image":"https://images.unsplash.com/photo-1582719478250-c89cae4dc85b","ratings":4.5},
+  {"productName":"Amul Butter","description":"Salted butter","category":"Dairy","brand":"Amul","quantity":"500g","price":250,"discountPercent":10,"stock":80,"image":"https://images.unsplash.com/photo-1589985270958-0a3c5f1c57a0","ratings":4.6},
+  {"productName":"Paneer","description":"Fresh paneer","category":"Dairy","brand":"Amul","quantity":"200g","price":90,"discountPercent":5,"stock":60,"image":"https://images.unsplash.com/photo-1604908177522-402b52d69f6c","ratings":4.4},
+
+  {"productName":"Basmati Rice","description":"Premium rice","category":"Grains","brand":"India Gate","quantity":"5kg","price":650,"discountPercent":10,"stock":70,"image":"https://images.unsplash.com/photo-1586201375761-83865001e31c","ratings":4.7},
+  {"productName":"Wheat Atta","description":"Whole wheat flour","category":"Grains","brand":"Aashirvaad","quantity":"5kg","price":300,"discountPercent":8,"stock":90,"image":"https://images.unsplash.com/photo-1604908176997-431f91d3c4c8","ratings":4.5},
+
+  {"productName":"Toor Dal","description":"Arhar dal","category":"Pulses","brand":"Tata Sampann","quantity":"1kg","price":180,"discountPercent":5,"stock":100,"image":"https://images.unsplash.com/photo-1625944525903-c6cde0a4c4e7","ratings":4.3},
+  {"productName":"Moong Dal","description":"Split moong dal","category":"Pulses","brand":"Fortune","quantity":"1kg","price":150,"discountPercent":5,"stock":90,"image":"https://images.unsplash.com/photo-1615485290382-441e4d049cb5","ratings":4.2},
+  {"productName":"Chana Dal","description":"Split chickpeas","category":"Pulses","brand":"24 Mantra","quantity":"1kg","price":140,"discountPercent":5,"stock":80,"image":"https://images.unsplash.com/photo-1615485290382-441e4d049cb5","ratings":4.3},
+
+  {"productName":"Sunflower Oil","description":"Refined oil","category":"Oil","brand":"Fortune","quantity":"1L","price":180,"discountPercent":5,"stock":120,"image":"https://images.unsplash.com/photo-1604908176997-431f91d3c4c8","ratings":4.4},
+  {"productName":"Mustard Oil","description":"Kachi ghani oil","category":"Oil","brand":"Dhara","quantity":"1L","price":200,"discountPercent":5,"stock":80,"image":"https://images.unsplash.com/photo-1615485290382-441e4d049cb5","ratings":4.3},
+
+  {"productName":"Maggi Noodles","description":"Instant noodles","category":"Snacks","brand":"Maggi","quantity":"70g","price":14,"discountPercent":0,"stock":200,"image":"https://images.unsplash.com/photo-1604908554027-4e54b3d3c0a1","ratings":4.8},
+  {"productName":"Lay's Chips","description":"Potato chips","category":"Snacks","brand":"Lay's","quantity":"50g","price":20,"discountPercent":0,"stock":150,"image":"https://images.unsplash.com/photo-1585238342028-4d1b06c5c5a1","ratings":4.6},
+  {"productName":"Kurkure","description":"Masala snack","category":"Snacks","brand":"Kurkure","quantity":"60g","price":20,"discountPercent":0,"stock":140,"image":"https://images.unsplash.com/photo-1585238342028-4d1b06c5c5a1","ratings":4.5},
+
+  {"productName":"Parle-G","description":"Glucose biscuits","category":"Snacks","brand":"Parle","quantity":"200g","price":25,"discountPercent":5,"stock":180,"image":"https://images.unsplash.com/photo-1604908177152-1dc9b0c2d1c2","ratings":4.7},
+  {"productName":"Good Day","description":"Butter biscuits","category":"Snacks","brand":"Britannia","quantity":"200g","price":35,"discountPercent":5,"stock":160,"image":"https://images.unsplash.com/photo-1589985270826-4b7bb135bc9d","ratings":4.5},
+
+  {"productName":"Coca Cola","description":"Soft drink","category":"Beverages","brand":"Coca-Cola","quantity":"750ml","price":40,"discountPercent":0,"stock":100,"image":"https://images.unsplash.com/photo-1580910051074-3eb694886505","ratings":4.4},
+  {"productName":"Pepsi","description":"Cold drink","category":"Beverages","brand":"Pepsi","quantity":"750ml","price":40,"discountPercent":0,"stock":100,"image":"https://images.unsplash.com/photo-1625944525903-c6cde0a4c4e7","ratings":4.3},
+
+  {"productName":"Apple","description":"Fresh apples","category":"Fruits","brand":"Local","quantity":"1kg","price":120,"discountPercent":10,"stock":60,"image":"https://images.unsplash.com/photo-1567306226416-28f0efdc88ce","ratings":4.5},
+  {"productName":"Banana","description":"Fresh bananas","category":"Fruits","brand":"Local","quantity":"1 dozen","price":60,"discountPercent":5,"stock":80,"image":"https://images.unsplash.com/photo-1574226516831-e1dff420e37d","ratings":4.4},
+  {"productName":"Orange","description":"Juicy oranges","category":"Fruits","brand":"Local","quantity":"1kg","price":90,"discountPercent":5,"stock":70,"image":"https://images.unsplash.com/photo-1580910365203-0a2b9d4a9c8a","ratings":4.3},
+
+  {"productName":"Tomato","description":"Fresh tomatoes","category":"Vegetables","brand":"Local","quantity":"1kg","price":30,"discountPercent":0,"stock":100,"image":"https://images.unsplash.com/photo-1582515073490-dc7e7a3d9c4b","ratings":4.2},
+  {"productName":"Potato","description":"Fresh potatoes","category":"Vegetables","brand":"Local","quantity":"1kg","price":25,"discountPercent":0,"stock":120,"image":"https://images.unsplash.com/photo-1582515073490-dc7e7a3d9c4b","ratings":4.1},
+
+  {"productName":"Sugar","description":"Refined sugar","category":"Grocery","brand":"Madhur","quantity":"1kg","price":45,"discountPercent":5,"stock":150,"image":"https://images.unsplash.com/photo-1589985270826-4b7bb135bc9d","ratings":4.3},
+  {"productName":"Salt","description":"Iodized salt","category":"Grocery","brand":"Tata","quantity":"1kg","price":20,"discountPercent":0,"stock":200,"image":"https://images.unsplash.com/photo-1604908177152-1dc9b0c2d1c2","ratings":4.4},
+
+  {"productName":"Tea Powder","description":"Premium tea","category":"Beverages","brand":"Tata Tea","quantity":"500g","price":250,"discountPercent":10,"stock":70,"image":"https://images.unsplash.com/photo-1509042239860-f550ce710b93","ratings":4.6},
+  {"productName":"Coffee","description":"Instant coffee","category":"Beverages","brand":"Nescafe","quantity":"200g","price":300,"discountPercent":10,"stock":60,"image":"https://images.unsplash.com/photo-1509042239860-f550ce710b93","ratings":4.5},
+
+  {"productName":"Eggs","description":"Farm eggs","category":"Dairy","brand":"Local","quantity":"12 pcs","price":80,"discountPercent":5,"stock":90,"image":"https://images.unsplash.com/photo-1582722872445-44dc5f7e3c8f","ratings":4.5},
+  {"productName":"Cheese","description":"Cheddar cheese","category":"Dairy","brand":"Amul","quantity":"200g","price":120,"discountPercent":5,"stock":70,"image":"https://images.unsplash.com/photo-1585238342028-4d1b06c5c5a1","ratings":4.4},
+
+  {"productName":"Jam","description":"Mixed fruit jam","category":"Grocery","brand":"Kissan","quantity":"500g","price":150,"discountPercent":10,"stock":60,"image":"https://images.unsplash.com/photo-1589985270826-4b7bb135bc9d","ratings":4.3},
+  {"productName":"Honey","description":"Natural honey","category":"Grocery","brand":"Dabur","quantity":"500g","price":220,"discountPercent":10,"stock":50,"image":"https://images.unsplash.com/photo-1585238342028-4d1b06c5c5a1","ratings":4.5},
+
+  {"productName":"Soap","description":"Bath soap","category":"Personal Care","brand":"Lux","quantity":"100g","price":35,"discountPercent":5,"stock":150,"image":"https://images.unsplash.com/photo-1588776814546-ec7e0a43c7d7","ratings":4.3},
+  {"productName":"Shampoo","description":"Hair shampoo","category":"Personal Care","brand":"Clinic Plus","quantity":"200ml","price":120,"discountPercent":5,"stock":100,"image":"https://images.unsplash.com/photo-1588776814546-ec7e0a43c7d7","ratings":4.4},
+
+  {"productName":"Toothpaste","description":"Dental care","category":"Personal Care","brand":"Colgate","quantity":"200g","price":120,"discountPercent":5,"stock":110,"image":"https://images.unsplash.com/photo-1588776814546-ec7e0a43c7d7","ratings":4.5},
+  {"productName":"Detergent","description":"Washing powder","category":"Cleaning","brand":"Surf Excel","quantity":"1kg","price":150,"discountPercent":5,"stock":90,"image":"https://images.unsplash.com/photo-1588776814546-ec7e0a43c7d7","ratings":4.4}
+]
+
+[
+  {"productName":"Green Tea","description":"Healthy green tea","category":"Beverages","brand":"Tetley","quantity":"100g","price":180,"discountPercent":10,"stock":60,"image":"https://images.unsplash.com/photo-1509042239860-f550ce710b93","ratings":4.4},
+  {"productName":"Black Pepper","description":"Whole black pepper","category":"Spices","brand":"Everest","quantity":"100g","price":90,"discountPercent":5,"stock":70,"image":"https://images.unsplash.com/photo-1615485737651-4a7f3b6a58b3","ratings":4.3},
+  {"productName":"Turmeric Powder","description":"Haldi powder","category":"Spices","brand":"MDH","quantity":"200g","price":70,"discountPercent":5,"stock":80,"image":"https://images.unsplash.com/photo-1615485290382-441e4d049cb5","ratings":4.5},
+  {"productName":"Red Chilli Powder","description":"Spicy chilli powder","category":"Spices","brand":"Everest","quantity":"200g","price":85,"discountPercent":5,"stock":75,"image":"https://images.unsplash.com/photo-1615485290382-441e4d049cb5","ratings":4.4},
+
+  {"productName":"Jeera","description":"Cumin seeds","category":"Spices","brand":"Catch","quantity":"100g","price":60,"discountPercent":5,"stock":65,"image":"https://images.unsplash.com/photo-1615485737651-4a7f3b6a58b3","ratings":4.3},
+  {"productName":"Coriander Powder","description":"Dhaniya powder","category":"Spices","brand":"MDH","quantity":"200g","price":60,"discountPercent":5,"stock":70,"image":"https://images.unsplash.com/photo-1615485290382-441e4d049cb5","ratings":4.2},
+
+  {"productName":"Ketchup","description":"Tomato ketchup","category":"Grocery","brand":"Kissan","quantity":"500g","price":110,"discountPercent":10,"stock":60,"image":"https://images.unsplash.com/photo-1604908177152-1dc9b0c2d1c2","ratings":4.4},
+  {"productName":"Mayonnaise","description":"Creamy mayo","category":"Grocery","brand":"Veeba","quantity":"300g","price":120,"discountPercent":10,"stock":50,"image":"https://images.unsplash.com/photo-1604908177152-1dc9b0c2d1c2","ratings":4.3},
+
+  {"productName":"Frozen Peas","description":"Frozen green peas","category":"Frozen","brand":"Safal","quantity":"500g","price":90,"discountPercent":5,"stock":60,"image":"https://images.unsplash.com/photo-1582515073490-dc7e7a3d9c4b","ratings":4.2},
+  {"productName":"Ice Cream","description":"Vanilla ice cream","category":"Frozen","brand":"Kwality Walls","quantity":"1L","price":200,"discountPercent":10,"stock":40,"image":"https://images.unsplash.com/photo-1505253216365-4e9b3c1c3f3f","ratings":4.6},
+
+  {"productName":"Almonds","description":"Premium badam","category":"Dry Fruits","brand":"Nutraj","quantity":"500g","price":450,"discountPercent":10,"stock":50,"image":"https://images.unsplash.com/photo-1604908176997-431f91d3c4c8","ratings":4.7},
+  {"productName":"Cashews","description":"Kaju","category":"Dry Fruits","brand":"Nutraj","quantity":"500g","price":500,"discountPercent":10,"stock":45,"image":"https://images.unsplash.com/photo-1604908176997-431f91d3c4c8","ratings":4.6},
+
+  {"productName":"Raisins","description":"Kismis","category":"Dry Fruits","brand":"Tulsi","quantity":"250g","price":120,"discountPercent":5,"stock":70,"image":"https://images.unsplash.com/photo-1604908176997-431f91d3c4c8","ratings":4.4},
+  {"productName":"Dates","description":"Khajur","category":"Dry Fruits","brand":"Lion","quantity":"500g","price":200,"discountPercent":10,"stock":60,"image":"https://images.unsplash.com/photo-1604908176997-431f91d3c4c8","ratings":4.5},
+
+  {"productName":"Bread Brown","description":"Healthy brown bread","category":"Bakery","brand":"Britannia","quantity":"400g","price":45,"discountPercent":5,"stock":80,"image":"https://images.unsplash.com/photo-1608198093002-ad4e005484ec","ratings":4.3},
+  {"productName":"Cake","description":"Chocolate cake","category":"Bakery","brand":"Local","quantity":"500g","price":250,"discountPercent":10,"stock":30,"image":"https://images.unsplash.com/photo-1604908177152-1dc9b0c2d1c2","ratings":4.6}
+]

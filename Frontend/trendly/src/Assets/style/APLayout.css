@@ -1,0 +1,42 @@
+:root {
+  --sw: 260px;
+  /* sidebar width */
+  --sw-closed: 80px;
+  --hh: 64px;
+  /* header height */
+}
+
+/* ========== BODY BACKGROUND ========== */
+body {
+  background: #f0f7ff;
+}
+
+/* ========== MAIN CONTENT AREA ========== */
+.ap-shell {
+  padding: calc(var(--hh) + 28px) 28px 28px;
+  margin-left: var(--sw);
+  transition: margin-left 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  min-height: 100vh;
+}
+
+/* WHEN SIDEBAR CLOSED */
+.ap-shell.full {
+  margin-left: var(--sw-closed);
+}
+
+/* ========== HEADER POSITIONING ========== */
+.ap-hd {
+  position: fixed;
+  top: 0;
+  left: var(--sw);
+  width: calc(100% - var(--sw));
+  height: var(--hh);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  z-index: 10;
+}
+
+/* HEADER WHEN SIDEBAR CLOSED */
+.ap-hd.wide {
+  left: var(--sw-closed);
+  width: calc(100% - var(--sw-closed));
+}
